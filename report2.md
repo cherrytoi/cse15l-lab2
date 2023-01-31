@@ -103,4 +103,5 @@ The fix incorporated a new method where the array length was divided by half as 
 
 
 Part 3
-In lab 2&3, I learned how to run a server through a computer. I did know it was a concept that existed but have never tried utilizing the tool myself. Additionally, while running the server, through the lab I learned that if multiple attempts to try to connect to the same port at the same time and computer, there will be an error.
+
+In labs 2 and 3, I learned how to run a server through a computer. I did know it was a concept that existed but have never tried utilizing the tool myself. Additionally, while running the server, through the lab I learned that if multiple attempts to try to connect to the same port at the same time and computer, there will be an error.

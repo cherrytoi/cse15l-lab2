@@ -38,6 +38,7 @@ class SearchEngine {
 ![Image](server.png)
 For the first screenshot, the method handleRequest was called. Since the url contained "add-message", the code was able to add my string "hi" to the list. The url was changed, therefore, the String array parameters was modified and the string was added to the strlist.
 
+![Image](server1.png)
 For the second screenshot, the method handleRequest was called. Since the url contained "add-message", the code was able to add my string "this took too long" to the list. The url was changed, therefore, the String array parameters was modified and the string was added to the strlist.
 
 
